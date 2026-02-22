@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gettokeroro/DADS5001_MINI_PROJECT/blob/main/notebooks/MiniProject_LinkedIn.ipynb)
+
 # DADS5001 Mini Project — LinkedIn Job Postings (2023–2024)
 
 ## Project Topic

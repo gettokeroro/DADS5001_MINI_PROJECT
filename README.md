@@ -27,7 +27,7 @@ LinkedIn Job Postings (2023 - 2024): https://www.kaggle.com/datasets/arshkon/lin
 ## Tables Top 10
 - ตารางซ้าย = Top 10 ประเทศที่มีประกาศงานสูงสุด  
 - ตารางขวา = Top 10 รัฐใน USA ที่มีประกาศงานสูงสุด
-- ตาราง Top 10 ใต้แผนที่
+
 ![Top 10 Countries](images/top10_countries.png)
 ![Top 10 USA States](images/top10_usa_states.png)
 

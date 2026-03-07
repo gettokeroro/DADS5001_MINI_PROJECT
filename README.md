@@ -74,7 +74,7 @@ Other
 
 ---
 
-#Market Quadrant Analysis (2024) — Applied vs Postings by Specific Industry
+# Market Quadrant Analysis (2024) — Applied vs Postings by Specific Industry
 
 ![USA vs Other USA Summary](images/4.scatter_specific_industry.png)
 
@@ -84,7 +84,7 @@ Other
 
 จึงทำการวิเคราะห์แบ่งกลุ่มตลาดออก เป็น 4 Quadrant เพื่อให้เข้าใจได้ง่ายว่าแต่ละอุตสาหกรรมย่อยอยู่ในสภาพตลาดแบบใด เช่น ตลาดคึกคัก ตลาดแข่งขันสูง หรือกลุ่มที่เหมือนกำลังขาดแคลนแรงงาน
 
-##Insight ที่ได้จากการ Cross ของ Apply และ Post
+## Insight ที่ได้จากการ Cross ของ Apply และ Post
 
 ![USA vs Other USA Summary](images/5.market_quadrant_2024_industry_landscape.png)
 ![USA vs Other USA Summary](images/6.market_summary_quadrant_2024.png)

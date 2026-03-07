@@ -142,7 +142,7 @@ Other
 
 ![USA vs Other USA Summary](images/11.remote_status_by_quadrant_country_group.png)
 
-  1) Active Market: ทั้งสองฝั่งยังเป็น On-site / Not Specified เป็นหลัก
-  2) Competitive Market: ตลาดนี้มีสัดส่วน Remote สูงกว่ากลุ่มอื่น
-  3) Talent Shortage: กลุ่มนี้มีสัดส่วน Remote ต่ำที่สุดในทุกตลาด
-  4) Niche Market: ทั้งสองฝั่งยังคงเป็น On-site / Not Specified เป็นหลัก
+  1) Active Market: ทั้งสองฝั่งยังเป็น On-site / Not Specified เป็นหลัก แต่ Non-USA อาจใช้ ความยืดหยุ่นในการทำงาน เป็นแรงจูงใจเสริมมากกว่า USA
+  2) Competitive Market: ตลาดนี้มีสัดส่วน Remote สูงกว่ากลุ่มอื่น จึงอาจตีความได้ว่า งานที่มีการแข่งขันสูง มักมาพร้อมความยืดหยุ่นมากขึ้น และ Remote อาจเป็นหนึ่งในปัจจัยที่ช่วยดึงดูดผู้สมัครเข้าสู่ตลาดนี้
+  3) Talent Shortage: กลุ่มนี้มีสัดส่วน Remote ต่ำที่สุดในทุกตลาด อาจยิ่งทำให้ฐานผู้สมัครแคบลง และเป็นหนึ่งในเหตุผลที่ทำให้ โพสต์เยอะ แต่สมัครน้อย
+  4) Niche Market: ทั้งสองฝั่งยังคงเป็น On-site / Not Specified เป็นหลัก แสดงว่าตลาดเฉพาะทางยังไม่ได้ขับเคลื่อนด้วย Work Flexibility มากนัก โดยแรงดึงดูดของตลาดอาจมาจาก ความเฉพาะของงาน มากกว่ารูปแบบการทำงาน

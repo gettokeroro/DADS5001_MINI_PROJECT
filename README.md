@@ -90,10 +90,10 @@ Other
 ![USA vs Other USA Summary](images/6.market_summary_quadrant_2024.png)
 
 โดยแบ่ง Quadrant โดยเห็นชัดขึ้นว่า อุตสาหกรรม/บริษัทในกลุ่มนั้นมีพฤติกรรมตลาดแบบใด
-1.High Apply / High Post (Active Market): มักพบในบริษัทขนาดใหญ่ เพราะมีทั้งจำนวนโพสต์สูงและจำนวนผู้สมัครสูงพร้อมกัน มักพบในบริษัทขนาดใหญ่หรือองค์กรที่มีการจ้างงานต่อเนื่อง (เช่น Amazon, Microsoft หรือกลุ่มธนาคาร)
-2.High Apply / Low Post (Competitive Market): มักเกี่ยวข้องกับบริษัทที่ได้รับความนิยมสูง เพราะตำแหน่งเปิดไม่ได้มาก แต่มีผู้สมัครจำนวนมากไหลเข้ามา เช่น FAANG (Netflix, Apple) หรือ Start-up ที่รายได้ดี
-3.Low Apply / High Post (Talent Shortage): โพสต์งานจำนวนมากแต่คนสมัครน้อย อาจพบในกลุ่มบริษัทจัดหางาน/ตัวกลาง (เช่น CyberCoders, Robert Half, Atc)
-4.Low Apply / Low Post (Niche Market): มักเป็นธุรกิจ B2B ขนาดกลาง ทั้งโพสต์และผู้สมัครมีไม่มาก ซึ่งเป็นธุรกิจเฉพาะทาง หรือ Local Business ที่อาจไม่ได้ทำ PR มากเท่ากลุ่มอื่น
+1)High Apply / High Post (Active Market): มักพบในบริษัทขนาดใหญ่ เพราะมีทั้งจำนวนโพสต์สูงและจำนวนผู้สมัครสูงพร้อมกัน มักพบในบริษัทขนาดใหญ่หรือองค์กรที่มีการจ้างงานต่อเนื่อง (เช่น Amazon, Microsoft หรือกลุ่มธนาคาร)
+2)High Apply / Low Post (Competitive Market): มักเกี่ยวข้องกับบริษัทที่ได้รับความนิยมสูง เพราะตำแหน่งเปิดไม่ได้มาก แต่มีผู้สมัครจำนวนมากไหลเข้ามา เช่น FAANG (Netflix, Apple) หรือ Start-up ที่รายได้ดี
+3)Low Apply / High Post (Talent Shortage): โพสต์งานจำนวนมากแต่คนสมัครน้อย อาจพบในกลุ่มบริษัทจัดหางาน/ตัวกลาง (เช่น CyberCoders, Robert Half, Atc)
+4)Low Apply / Low Post (Niche Market): มักเป็นธุรกิจ B2B ขนาดกลาง ทั้งโพสต์และผู้สมัครมีไม่มาก ซึ่งเป็นธุรกิจเฉพาะทาง หรือ Local Business ที่อาจไม่ได้ทำ PR มากเท่ากลุ่มอื่น
 
 ---
 ---

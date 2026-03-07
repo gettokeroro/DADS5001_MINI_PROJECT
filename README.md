@@ -99,9 +99,9 @@ Other
 
 # Top Companies by Specific Industry & Quadrant: Application Success Rate
 
-![USA vs Other USA Summary](images/8.top_companies_by_quadrant_industry_overlay.png)
-
 ต่อยอดจากการวิเคราะห์แบบ Quadrant ในระดับอุตสาหกรรมย่อย โดยลงลึกมาที่ระดับบริษัท เพื่อดูว่าบริษัทใดเป็นตัวแทนสำคัญของแต่ละ Quadrant และเมื่อเทียบกับจำนวนโพสต์ทั้งหมดของบริษัทนั้นแล้ว บริษัทใดมี Application Success Rate สูงหรือต่ำกว่ากัน
+
+![USA vs Other USA Summary](images/8.top_companies_by_quadrant_industry_overlay.png)
 
 1) High Apply / High Post (Active Market): จะเห็นว่ารายชื่อกลุ่มนี้กระจุกอยู่ในอุตสาหกรรมที่มีการจ้างงานต่อเนื่องและมีความต้องการแรงงานสูง ซึ่งล้วนเป็นชื่อที่อยู่ในตลาดที่มีความเคลื่อนไหวสูงอยู่แล้ว แต่ความน่าสนใจคือ แม้ทุกบริษัทจะอยู่ใน Quadrant เดียวกัน แต่ระดับของ Application Success Rate ก็ยังแตกต่างกันพอสมควร
 

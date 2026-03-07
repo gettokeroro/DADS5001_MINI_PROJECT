@@ -73,6 +73,29 @@ Other
 ทำให้เห็นความต่างว่า อุตสาหกรรมที่โพสต์เยอะ ไม่จำเป็นต้องเป็นอุตสาหกรรมที่มีการสมัครสูงที่สุดเสมอไป
 
 ---
+
+#Market Quadrant Analysis (2024) — Applied vs Postings by Specific Industry
+
+![USA vs Other USA Summary](images/4.scatter_specific_industry.png)
+
+วิเคราะห์ ตลาดแรงงาน ในระดับ Specific Industry (อุตสาหกรรมย่อย) โดยใช้ 2 ตัวแปรหลักในการมองภาพร่วมกัน ได้แก่
+- Total Postings: จำนวนประกาศงานรวม
+- Total Applied: จำนวนการสมัครรวม
+
+จึงทำการวิเคราะห์แบ่งกลุ่มตลาดออก เป็น 4 Quadrant เพื่อให้เข้าใจได้ง่ายว่าแต่ละอุตสาหกรรมย่อยอยู่ในสภาพตลาดแบบใด เช่น ตลาดคึกคัก ตลาดแข่งขันสูง หรือกลุ่มที่เหมือนกำลังขาดแคลนแรงงาน
+
+##Insight ที่ได้จากการ Cross ของ Apply และ Post
+
+![USA vs Other USA Summary](images/5.market_quadrant_2024_industry_landscape.png)
+![USA vs Other USA Summary](images/6.market_summary_quadrant_2024.png)
+
+โดยแบ่ง Quadrant โดยเห็นชัดขึ้นว่า อุตสาหกรรม/บริษัทในกลุ่มนั้นมีพฤติกรรมตลาดแบบใด
+1.High Apply / High Post (Active Market): มักพบในบริษัทขนาดใหญ่ เพราะมีทั้งจำนวนโพสต์สูงและจำนวนผู้สมัครสูงพร้อมกัน มักพบในบริษัทขนาดใหญ่หรือองค์กรที่มีการจ้างงานต่อเนื่อง (เช่น Amazon, Microsoft หรือกลุ่มธนาคาร)
+2.High Apply / Low Post (Competitive Market): มักเกี่ยวข้องกับบริษัทที่ได้รับความนิยมสูง เพราะตำแหน่งเปิดไม่ได้มาก แต่มีผู้สมัครจำนวนมากไหลเข้ามา เช่น FAANG (Netflix, Apple) หรือ Start-up ที่รายได้ดี
+3.Low Apply / High Post (Talent Shortage): โพสต์งานจำนวนมากแต่คนสมัครน้อย อาจพบในกลุ่มบริษัทจัดหางาน/ตัวกลาง (เช่น CyberCoders, Robert Half, Atc)
+4.Low Apply / Low Post (Niche Market): มักเป็นธุรกิจ B2B ขนาดกลาง ทั้งโพสต์และผู้สมัครมีไม่มาก ซึ่งเป็นธุรกิจเฉพาะทาง หรือ Local Business ที่อาจไม่ได้ทำ PR มากเท่ากลุ่มอื่น
+
+---
 ---
 ###ด้านล่างนี้ คือ ข้อความเก่า
 # DADS5001 Mini Project — LinkedIn Job Postings (2024)

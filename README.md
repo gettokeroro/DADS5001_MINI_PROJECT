@@ -29,8 +29,8 @@ LinkedIn Job Postings (2023 - 2024): https://www.kaggle.com/datasets/arshkon/lin
 - ตารางซ้าย (Top 10 Countries): แสดง 10 ประเทศที่มีประกาศงานเยอะที่สุด ซึ่งช่วยยืนยันว่าข้อมูลชุดนี้มี ไปทางประเทศ USA อย่างโดดเด่น และเป็นเหตุผลสำคัญของการเลือกโฟกัสการวิเคราะห์ใน USA
 - ตารางขวา (Top 10 USA States): แสดง 10 รัฐที่มีการประกาศงานมากที่สุดในสหรัฐฯ ทำให้เห็นว่า รัฐที่เป็นศูนย์กลางตลาดงาน มีรัฐใดบ้าง และช่วยยืนยันว่าพื้นที่สีเข้มในแผนที่ USA แปลเป็นจำนวนประกาศงานที่สูงจริง
 
-![Top 10 Countries](images/top10_countries.png)
-![Top 10 USA States](images/top10_usa_states.png)
+![Top 10 Countries](1.images/top10_countries.png)
+![Top 10 USA States](1.images/top10_usa_states.png)
 
 ---
 

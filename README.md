@@ -95,9 +95,7 @@ Other
 3) Low Apply / High Post (Talent Shortage): โพสต์งานจำนวนมากแต่คนสมัครน้อย อาจพบในกลุ่มบริษัทจัดหางาน/ตัวกลาง (เช่น CyberCoders, Robert Half, Atc)
 4) Low Apply / Low Post (Niche Market): มักเป็นธุรกิจ B2B ขนาดกลาง ทั้งโพสต์และผู้สมัครมีไม่มาก ซึ่งเป็นธุรกิจเฉพาะทาง หรือ Local Business ที่อาจไม่ได้ทำ PR มากเท่ากลุ่มอื่น
 
----
-
-# Top Companies by Specific Industry & Quadrant: Application Success Rate
+## Top Companies by Specific Industry & Quadrant: Application Success Rate
 
 ต่อยอดจากการวิเคราะห์แบบ Quadrant ในระดับอุตสาหกรรมย่อย โดยลงลึกมาที่ระดับบริษัท เพื่อดูว่าบริษัทใดเป็นตัวแทนสำคัญของแต่ละ Quadrant และเมื่อเทียบกับจำนวนโพสต์ทั้งหมดของบริษัทนั้นแล้ว บริษัทใดมี Application Success Rate สูงหรือต่ำกว่ากัน
 
@@ -123,16 +121,36 @@ Other
    - USA: ส่วนใหญ่ยังอยู่ในกลุ่ม On-site / Not Specified ถึง 88.4% ขณะที่งานแบบ Remote Allowed มีเพียง 11.6% สะท้อนว่ารูปแบบการทำงานที่ยืดหยุ่นยังไม่ใช่สัดส่วนหลักของตลาดในข้อมูลชุดนี้
    - Other: สัดส่วนหลักอยู่ในกลุ่ม On-site / Not Specified เช่นกันที่ 83.4% แต่มีงานแบบ Remote Allowed สูงกว่า USA เล็กน้อยที่ 16.6% แสดงให้เห็นว่าตลาดนอก USA มีความยืดหยุ่นด้านรูปแบบการทำงานมากกว่าเล็กน้อย
 
+## Salary Range by Quadrant (USA vs Non-USA)
 
+![USA vs Other USA Summary](images/10.salary_range_by_quadrant_country_group.png)
 
+  1) Active Market
+       - USA: โครงสร้างเงินเดือนกระจุกอยู่ที่ <$50k มากที่สุด 43.8% รองลงมาคือ $50k– (18.5%) สะท้อนว่าตลาด Active ของ USA ยังมีฐานใหญ่เป็นงานช่วงเงินเดือนล่างถึงกลาง
+       - Non-USA: มีการกระจายตัวของเงินเดือนกว้างกว่า โดยมี <$50k (25.5%), $100k– (25.4%) ใกล้เคียงกัน ตลาดใน Non-USA ไม่ได้พึ่งพาแค่ช่วงเงินเดือนล่าง แต่มีสัดส่วนของงานเงินเดือนกลางและสูงมากขึ้น
+  2) Competitive Market
+       - USA: โครงสร้างเงินเดือนมีทั้ง <$50k (26.3%), >$200k (23.8%) อยู่ในสัดส่วนสูงพอ ๆ กัน ภาพนี้บ่งบอกว่าตลาดมีทั้งงานฐานล่างและงานรายได้สูงที่ดึงดูดผู้สมัครได้มาก
+       - Non-USA: กระจุกชัดเจนที่ <$50k สูงถึง (65.2%), $50k– (17.4%) สะท้อนว่านอก USA ส่วนใหญ่ยังเกิดงานช่วงเงินเดือนล่างเป็นหลัก
+  3) Talent Shortage
+       - USA: เงินเดือนส่วนใหญ่กระจุกอยู่ที่ <$50k (34.0%), $50k– (28.3%)
+       - Non-USA: มีรูปแบบใกล้เคียงกันกับ USA <$50k (31.8%), $50k- (25.9%)
+  4) Niche Market
+       - USA: เงินเดือนกระจุกอยู่ที่ <$50k (31.8%), $50k (28.6%)
+       - Non-USA: โครงสร้างต่างออกไปเล็กน้อย โดยกลุ่มที่มากที่สุดคือ $100k (30.3%), <$50k (27.8%)
 
+## Work Model Availability by Quadrant (USA vs Non-USA)
 
+![USA vs Other USA Summary](images/11.remote_status_by_quadrant_country_group.png)
 
-
-
-
-
-
-
-
-
+  1) Active Market: ทั้งสองฝั่งยังเป็น On-site / Not Specified เป็นหลัก
+     - On-site / Not Specified - USA 85.9%, Non-USA 79.6%
+     - Remote Allowed - USA 14.1%, Non-USA 20.4%
+  2) Competitive Market: ตลาดนี้มีสัดส่วน Remote สูงกว่ากลุ่มอื่น
+     - On-site / Not Specified - USA 82.1%, Non-USA 77.3%
+     - Remote Allowed - USA 17.9%, Non-USA 22.7%
+  3) Talent Shortage: กลุ่มนี้มีสัดส่วน Remote ต่ำที่สุดในทุกตลาด
+     - On-site / Not Specified - USA 93.5%, Non-USA 88.7%
+     - Remote Allowed - USA 6.5%, Non-USA 11.3%
+  4) Niche Market: ทั้งสองฝั่งยังคงเป็น On-site / Not Specified เป็นหลัก
+     - On-site / Not Specified - USA 90.5%, Non-USA 87.0%
+     - Remote Allowed - USA 9.5% , Non-USA 13.0%

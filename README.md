@@ -58,10 +58,13 @@ LinkedIn Job Postings (2023 - 2024): https://www.kaggle.com/datasets/arshkon/lin
 - Technology & Telecommunications
 
 ฝั่งผู้สมัคร: งานในอุตสาหกรรมนั้นๆ มีการสมัคร มากน้อยเพียงใด จะเห็นว่าอุตสาหกรรมที่ได้สัญญาณความสนใจโดดเด่น
+
 USA
 - Technology & Telecommunications ~32.89%
 - Media, Entertainment & Arts ~27.76%
 - Business & Professional Services ~24.89%
+
+
 Other
 - Agriculture, Forestry & Fishing ~36.36%
 - Technology & Telecommunications ~34.61%

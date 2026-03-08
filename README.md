@@ -24,7 +24,7 @@ LinkedIn Job Postings (2023 - 2024): https://www.kaggle.com/datasets/arshkon/lin
 
 ![Job Postings Footprint](images/1.footprint_world_vs_usa.png)
 
-## Tables Top 10
+### Tables Top 10
 เพื่อเพิ่มความชัดเจนในการอ่านและตีความข้อมูลจากแผนที่ จึงจัดทำตาราง Top 10 ไว้ด้านล่าง เพื่อแสดงลำดับและค่าตัวเลขเชิงปริมาณที่สอดคล้องกับรูปแบบการกระจายตัวที่ปรากฏบนแผนที่
 - ตารางซ้าย (Top 10 Countries): แสดง 10 ประเทศที่มีประกาศงานเยอะที่สุด ซึ่งช่วยยืนยันว่าข้อมูลชุดนี้มี ไปทางประเทศ USA อย่างโดดเด่น และเป็นเหตุผลสำคัญของการเลือกโฟกัสการวิเคราะห์ใน USA
 - ตารางขวา (Top 10 USA States): แสดง 10 รัฐที่มีการประกาศงานมากที่สุดในสหรัฐฯ ทำให้เห็นว่า รัฐที่เป็นศูนย์กลางตลาดงาน มีรัฐใดบ้าง และช่วยยืนยันว่าพื้นที่สีเข้มในแผนที่ USA แปลเป็นจำนวนประกาศงานที่สูงจริง
@@ -84,7 +84,7 @@ Other
 
 จึงทำการวิเคราะห์แบ่งกลุ่มตลาดออก เป็น 4 Quadrant เพื่อให้เข้าใจได้ง่ายว่าแต่ละอุตสาหกรรมย่อยอยู่ในสภาพตลาดแบบใด เช่น ตลาดคึกคัก ตลาดแข่งขันสูง หรือกลุ่มที่เหมือนกำลังขาดแคลนแรงงาน
 
-## Insight ที่ได้จากการ Cross ของ Apply และ Post
+### Insight ที่ได้จากการ Cross ของ Apply และ Post
 
 ![USA vs Other USA Summary](images/5.market_quadrant_2024_industry_landscape.png)
 ![USA vs Other USA Summary](images/6.market_summary_by_quadrant_2024.png)
@@ -95,7 +95,7 @@ Other
 3) Low Apply / High Post (Talent Shortage): โพสต์งานจำนวนมากแต่คนสมัครน้อย อาจพบในกลุ่มบริษัทจัดหางาน/ตัวกลาง (เช่น CyberCoders, Robert Half, Atc)
 4) Low Apply / Low Post (Niche Market): มักเป็นธุรกิจ B2B ขนาดกลาง ทั้งโพสต์และผู้สมัครมีไม่มาก ซึ่งเป็นธุรกิจเฉพาะทาง หรือ Local Business ที่อาจไม่ได้ทำ PR มากเท่ากลุ่มอื่น
 
-## Top Companies by Specific Industry & Quadrant: Application Success Rate
+### Top Companies by Specific Industry & Quadrant: Application Success Rate
 
 ต่อยอดจากการวิเคราะห์แบบ Quadrant ในระดับอุตสาหกรรมย่อย โดยลงลึกมาที่ระดับบริษัท เพื่อดูว่าบริษัทใดเป็นตัวแทนสำคัญของแต่ละ Quadrant และเมื่อเทียบกับจำนวนโพสต์ทั้งหมดของบริษัทนั้นแล้ว บริษัทใดมี Application Success Rate สูงหรือต่ำกว่ากัน
 
@@ -121,7 +121,7 @@ Other
    - USA: ส่วนใหญ่ยังอยู่ในกลุ่ม On-site / Not Specified ถึง 88.4% ขณะที่งานแบบ Remote Allowed มีเพียง 11.6% สะท้อนว่ารูปแบบการทำงานที่ยืดหยุ่นยังไม่ใช่สัดส่วนหลักของตลาดในข้อมูลชุดนี้
    - Other: สัดส่วนหลักอยู่ในกลุ่ม On-site / Not Specified เช่นกันที่ 83.4% แต่มีงานแบบ Remote Allowed สูงกว่า USA เล็กน้อยที่ 16.6% แสดงให้เห็นว่าตลาดนอก USA มีความยืดหยุ่นด้านรูปแบบการทำงานมากกว่าเล็กน้อย
 
-## Salary Range by Quadrant (USA vs Non-USA)
+### Salary Range by Quadrant (USA vs Non-USA)
 
 ![USA vs Other USA Summary](images/10.salary_range_by_quadrant_country_group.png)
 
@@ -138,7 +138,7 @@ Other
        - USA: เงินเดือนกระจุกอยู่ที่ <$50k, $50k
        - Non-USA: โครงสร้างต่างออกไปเล็กน้อย โดยกลุ่มที่มากที่สุดคือ $100k, <$50k
 
-## Work Model Availability by Quadrant (USA vs Non-USA)
+### Work Model Availability by Quadrant (USA vs Non-USA)
 
 ![USA vs Other USA Summary](images/11.remote_status_by_quadrant_country_group.png)
 
@@ -170,7 +170,7 @@ Other
 
 กราฟนี้แสดงความนิยมของ Skill ในตลาดงานทั้งหมด เพื่อให้เห็นว่าทักษะใดเป็นที่ต้องการสูงที่สุดในตลาดงาน จากผลลัพธ์จะเห็นว่ามี กลุ่มทักษะหลักบางกลุ่ม ถูกระบุในประกาศงานบ่อยมาก เช่น เช่น IT, Sales, Management หากผู้สมัครมีอย่างน้อย 1 ใน Top 10 Skills เหล่านี้ ก็มีแนวโน้มที่จะมีโอกาสสมัครงานได้ง่ายขึ้น
 
-## Top 5 In-Demand Skills across Market Quadrants
+### Top 5 In-Demand Skills across Market Quadrants
 
 
 

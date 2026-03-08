@@ -172,6 +172,14 @@ Other
 
 ### Top 5 In-Demand Skills across Market Quadrants
 
+![USA vs Other USA Summary](images/15.top5_demand_skill_by_quadrant.png)
+
+ในตลาดแรงงานแม้จะถูกแบ่งออกเป็น 4 Quadrants ตามลักษณะการสมัครและจำนวนโพสต์ แต่ Top 5 Skills ของแต่ละกลุ่มยังมีบางทักษะที่ปรากฏซ้ำกันอย่างชัดเจน โดยเฉพาะ IT ที่พบในทุกกลุ่มตลาด และ Management ที่พบในหลายกลุ่มเช่นกัน จึงชี้ให้เห็นว่าทักษะบางประเภทเป็น “core skill” ที่มีบทบาทครอบคลุมในตลาด
+
+
+
+
+
 
 
 

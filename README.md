@@ -180,7 +180,7 @@ Other
 
 # Supply vs Demand: The Job Market Imbalance
 
-![USA vs Other USA Summary](images/16.demand supply_comparing_dimensions.png)
+![USA vs Other USA Summary](images/16.demand_supply_comparing_dimensions.png)
 
 จากภาพรวมข้อมูลทั้งหมด เห็นได้ชัดว่าตลาดแรงงานมีความไม่สมดุลอยู่หลายมิติ โดยสรุปออกมาเป็น 4 ประเด็นสำคัญดังนี้
 
@@ -193,7 +193,7 @@ Other
 
 # Final Verdict: What Really Drives Job Applications?
 
-![USA vs Other USA Summary](images/17.final verdict.png)
+![USA vs Other USA Summary](images/17.final_verdict.png)
 
 ผลกระทบจาก Ridge Regression จะว่าปัจจัยสามารถดึงดูดผู้สมัครอย่างชัดเจน และทางกลับกันก็สามารภ ลดแรงจูงใจในการสมัครได้ ซึ่งสามารถสรุปเป็น 4 ประเด็นหลักดังนี้
 

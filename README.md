@@ -1,10 +1,11 @@
 # Dataset / Data Source
 
 LinkedIn Job Postings (2023 - 2024): https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
+Remote Work Productivity 2026: https://www.kaggle.com/datasets/masanakashima/remote-work-productivity-2026
 
 ---
 
-# LinkedIn Job Postings Analysis (2024) — USA Focus
+# LinkedIn Job Postings Analysis (2024) — USA VS Other
 
 โปรเจกต์นี้วิเคราะห์ข้อมูลประกาศงานจาก LinkedIn (ช่วงปี 2023–2024) เพื่อวิเคราะห์ภาพรวมตลาดงานและพฤติกรรมการสมัครงานผ่านโพสต์ประกาศงานบน LinkedIn โดยโฟกัสการเจาะลึกปี 2024 และตลาดงานในสหรัฐฯ (USA) ก่อน จากนั้นจึงเปรียบเทียบกับกลุ่มประเทศอื่น (Other vs USA) เพื่อทำความเข้าใจ ขนาดตลาดงาน และ พฤติกรรมการสมัครงาน จากข้อมูลที่มี ทั้งฝั่ง supply และฝั่ง demand
 
